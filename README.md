@@ -22,7 +22,7 @@ Features:
   2.2) Array size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized in best and worst case.
-
+link: https://saadakbar1.github.io/SortVisualizer/
 //Made by Saad Akbar
 
 
